@@ -9,17 +9,19 @@ This repository contains a structured collection of Machine Learning fundamental
 - Dummy Variables and One Hot Encoding
 - Training and Testing Data
 - Logistic Regression
-- Logistic regression Multi Class Classification
-- Decsion Tree
+- Logistic regression Multi-Class Classification
+- Decision Tree
 - Support Vector Machine
 - Random Forest
-- K Fold Cross Validation
-- K Means Clustering
+- K-Fold Cross-Validation
+- K-Means Clustering
 - Naive Bayes Classifier
 - Hyper Parameter Tuning
 - Regularization
 - K Nearest Neighbour
-- Principle Component Analysis
+- Principal Component Analysis
+- Bias vs Variance
+- Ensemble Learning - Bagging
 
 ## Purpose
 - Reinforce core Machine Learning concepts
